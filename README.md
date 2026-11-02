@@ -1,4 +1,6 @@
-# AI Data Analyst Agent
+# Data Analysis Automation — Agentic Workflow
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B.svg) ![LangChain](https://img.shields.io/badge/LangChain-LLM-1C3C3C.svg) ![LangGraph](https://img.shields.io/badge/LangGraph-agents-1C3C3C.svg) ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 [![Try it live](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://analysiscsv.streamlit.app/)
 
@@ -65,10 +67,6 @@ project/
 └── README.md                        # This file
 ```
 
-## Screenshots
-
-*(Add screenshots here after running the app locally - e.g. `screenshots/upload.png`, `screenshots/report.png`)*
-
 ## How to Run
 
 See [docs/INSTALL.md](docs/INSTALL.md) for full step-by-step instructions. Quick version:
@@ -120,4 +118,10 @@ Try these with `data/sample_data.csv`:
 
 ---
 
-Built as a client demo to showcase LangChain + LangGraph working together in a real, runnable application.
+## Author
+
+**Bhaskar Barot** — AI/ML Engineer
+
+- GitHub: [@bhaskarbarot](https://github.com/bhaskarbarot)
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
